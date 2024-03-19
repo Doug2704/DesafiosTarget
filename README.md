@@ -1,5 +1,6 @@
 "# DesafiosTarget" 
 
+Qeuestões 2 e 5 feitas na linguagem Java
 
 Respostas:
 
