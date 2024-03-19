@@ -1,12 +1,12 @@
 "# DesafiosTarget" 
 
-Qeuestões 2 e 5 feitas na linguagem Java
+Qeuestões 1, 2 e 5 feitas na linguagem Java. Estão na pasta src
 
 Respostas:
 
-1. 91 
+1. 91 (classe: DesafioLoop)
 
-2. resposta no código no repositório
+2. resposta no código no repositório (classe: DesafioFibonacci)
 
 3. 
   a) 9
@@ -20,4 +20,4 @@ Respostas:
 Entro na sala s1, se a lampada estiver acessa, o interruptor que a ligou é o i2, se estiver desligada e quente é o i1, se estiver fria é o i3.
 Agora que sei qual interruptor liga a s1, eu ligo outro qualquer e entro na sala s2, se ela estiver acessa, esse será o interruptor que a acende e o outro será o que acende a s3.
 
-5. resposta no código no repositório
+5. resposta no código no repositório (classe: DesafioString)
